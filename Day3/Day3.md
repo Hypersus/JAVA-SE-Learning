@@ -55,3 +55,4 @@ NOTE: String is not Primitive Type
 
 - Class variable
 - Instance variable
+- 
