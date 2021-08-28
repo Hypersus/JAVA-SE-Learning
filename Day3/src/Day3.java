@@ -6,6 +6,6 @@ public class Day3 {
         float ff = 9999999999999999999f;
         float fff= ff+1;
         System.out.println(ff==fff);//True
-
+        System.out.println(ff==fff);//True
     }
 }
