@@ -21,5 +21,6 @@ public class Day5 {
 //        }
 //        System.out.println(scanner.nextLine());
         scanner.close();
+        
     }
 }
